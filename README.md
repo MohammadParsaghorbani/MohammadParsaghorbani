@@ -1,4 +1,3 @@
-<img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/91a91f8c-067e-4c18-a987-b6353c32d416" />
 
 <!--
 **MohammadParsaghorbani/MohammadParsaghorbani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
