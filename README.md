@@ -1,4 +1,4 @@
-
+<img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/91a91f8c-067e-4c18-a987-b6353c32d416" />
 
 <!--
 **MohammadParsaghorbani/MohammadParsaghorbani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi 👋, I'm Mohammad Parsa Ghorbani
+# Hi 👋, I'm Mohammad Parsa Ghorbani , Programmer & Student from Mazandaran, Iran
 
 ### 🐍 Python Developer | Django Developer | AI Developer | Data Scientist | Backend Developer
 
-I'm a passionate Python Developer focused on building scalable backend applications, data-driven solutions, and intelligent systems.
+I'm a passionate Python Developer focused on building scalable backend applications, websites, and intelligent systems.
 
-I enjoy working with Python, Django, Data Science, Artificial Intelligence, and Databases, while continuously learning and improving my skills.
+I enjoy working with Python, Django, Data Science, Artificial Intelligence, while continuously learning and improving my skills.
 
 ---
 
@@ -31,9 +31,7 @@ I enjoy working with Python, Django, Data Science, Artificial Intelligence, and 
 - 🤖 AI Developer
 - 📊 Data Scientist
 - 🗄️ Database Developer
-- 📈 Data Analysis & Data Processing
 - 🔢 Working with NumPy & Pandas
-- 🔧 Building RESTful APIs
 - 💡 Interested in Artificial Intelligence & Machine Learning
 - 🌱 Always learning new technologies
 
@@ -85,15 +83,15 @@ I'm always open to discussing new projects, ideas, collaborations, and opportuni
 
 <p align="left">
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mparsagh221@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/mohammad-parsa-ghorbani-0a87492b4/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_TELEGRAM_URL">
+<a href="https://t.me/mparsaghk">
 <img src="https://img.shields.io/badge/Telegram-Message-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
