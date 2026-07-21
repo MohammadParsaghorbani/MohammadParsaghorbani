@@ -78,34 +78,23 @@ I enjoy working with Python, Django, Data Science, Artificial Intelligence, and 
 - Database Design
 - SQL
 
-### 🔧 Tools & Technologies
+---
+## 📫 Get In Touch
+
+I'm always open to discussing new projects, ideas, collaborations, and opportunities.
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" />
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_TELEGRAM_URL">
+<img src="https://img.shields.io/badge/Telegram-Message-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
 </p>
-
----
-
-## 💻 What I Do
-
-```text
-🐍 Python Development
-        │
-        ├── 🌐 Backend Development
-        │       ├── Django
-        │       ├── REST APIs
-        │       └── Web Applications
-        │
-        ├── 🤖 Artificial Intelligence
-        │       ├── Machine Learning
-        │       └── Intelligent Systems
-        │
-        ├── 📊 Data Science
-        │       ├── NumPy
-        │       ├── Pandas
-        │       └── Data Analysis
-        │
-        └── 🗄️ Database Development
-                ├── SQL
-                ├── PostgreSQL
-                └── Database Design
